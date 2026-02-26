@@ -19,9 +19,10 @@ This repository provides a kernel-mode TPM interception driver with an emphasis 
 
 ## Architecture Diagram
 
+<img width="1167" height="629" alt="image" src="https://github.com/user-attachments/assets/caaf86ec-5f42-44f3-8201-c2f402638abf" />
 
 
-<img width="1137" height="584" alt="image" src="https://github.com/user-attachments/assets/f4725155-7465-46b4-a284-cf7f032f3e45" />
+
 
 
 ## Advanced Features & Architectural Improvements
