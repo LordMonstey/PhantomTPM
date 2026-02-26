@@ -21,11 +21,8 @@ This repository provides a kernel-mode TPM interception driver with an emphasis 
 
 Place your Draw.io export here (image committed to the repo), then update the path below:
 
-![Architecture Diagram](docs/diagram.png)
+<img width="1137" height="584" alt="image" src="https://github.com/user-attachments/assets/f4725155-7465-46b4-a284-cf7f032f3e45" />
 
-> **TODO:** Replace `docs/diagram.png` with your exported Draw.io image path/name.
-
----
 
 ## Advanced Features & Architectural Improvements
 
