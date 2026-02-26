@@ -1,6 +1,6 @@
 ﻿# Advanced TPM Hooking & NVRAM Sanitization Driver
 
-> **Inspired by SamuelTulach** — this project builds on that foundation but introduces **heavy architectural improvements** focused on stealth, tighter interception scope, safer kernel memory handling, and expanded TPM response sanitization.
+> **Inspired by SamuelTulach** this project builds on that foundation but introduces **heavy architectural improvements** focused on stealth, tighter interception scope, safer kernel memory handling, and expanded TPM response sanitization.
 
 ---
 
